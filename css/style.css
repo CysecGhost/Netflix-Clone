@@ -714,11 +714,11 @@ margin-top: 24px;
 .features .box-content h3{
   font-family: Arial, Helvetica, sans-serif;
   font-size: 1.1rem;
-  width: 21.875rem;
+  width: 80%;
 } 
 
 .features .box-content p{
-  width: 21.875rem;
+  min-width: 80%;
 }
 
 .box-icons{

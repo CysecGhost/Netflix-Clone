@@ -556,6 +556,10 @@ margin-top: 24px;
   height: 1.1rem;
 }
 
+.email-signin h3{
+  font-weight: 400;
+}
+
 .cta-btn{
   width: 100%;
   max-width: 150px;
@@ -710,11 +714,11 @@ margin-top: 24px;
 .features .box-content h3{
   font-family: Arial, Helvetica, sans-serif;
   font-size: 1.1rem;
-  width: 350px;
+  width: 21.875rem;
 } 
 
 .features .box-content p{
-  width: 350px;
+  width: 21.875rem;
 }
 
 .box-icons{
